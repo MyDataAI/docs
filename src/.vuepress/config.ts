@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/docs/",
 
   locales: {
     "/": {
@@ -13,7 +13,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "DataAI",
+      title: "MyDataAI",
       description: "vuepress-theme-hope 的文档演示",
     },
   },
