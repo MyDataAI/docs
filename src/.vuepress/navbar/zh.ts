@@ -26,6 +26,6 @@ export const zhNavbar = navbar([
   {
     text: "提示词工程",
     icon: "book",
-    link: "/ai/basic/test.md",
+    link: "/ai/prompt/test.md",
   },
 ]);
