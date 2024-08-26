@@ -1,6 +1,5 @@
 ---
 title: 提示词优化的9个入门技巧
-icon: fa-solid fa-house
 order: 1
 ---
 
